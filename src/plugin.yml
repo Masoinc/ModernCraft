@@ -1,0 +1,10 @@
+name: ModernCraft
+
+main: me.masonic.mc.Core
+
+version: 1.0
+
+commands:
+  sss:
+    description: sss
+    usage: /sss

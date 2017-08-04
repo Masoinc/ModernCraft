@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ModernCraft">
+    <output-path>E:/Minecraft/现代空岛v2.0/plugins</output-path>
+    <root id="archive" name="ModernCraft.jar">
+      <element id="module-output" name="ModernCraft" />
+    </root>
+  </artifact>
+</component>
